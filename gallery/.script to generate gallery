@@ -1,0 +1,6 @@
+docker run -t -v c:/data:/data thumbsupgallery/thumbsup thumbsup --input data/in --output data/out --no-usage-stats
+
+
+create a folder in c:
+-input : c:data/in
+-output c:data/out
